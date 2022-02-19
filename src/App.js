@@ -110,7 +110,7 @@ const App = () => {
     }
   };
   return (
-    <div className="background">
+    <div className="background testing">
       <div className="title">
         <h1>Tic Tac Toe</h1>
       </div>
